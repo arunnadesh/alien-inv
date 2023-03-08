@@ -1,0 +1,4 @@
+Foo north=Bar west=Baz south=Qu-ux
+Bar south=Foo west=Bee north=Delhi
+Delhi west=Mumbai east=Kolkata south=Bar
+Mumbai east=Delhi south=Chennai
