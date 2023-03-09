@@ -38,7 +38,7 @@ the assumptions you are making.
 
 ## Build & Run
 ```
-$cd myalien
+$cd alien-inv
 $make
 $cd bin
 $ ./alien-invasion 
