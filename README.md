@@ -34,7 +34,7 @@ $ ./alien-invasion -m default_map.txt -n 20 -i 4000
   1. At every iteration, aliens are picked randomly for attack.
   2. The city for initial attack and subsequent attacks are chosen randomly.
   3. Remaining cities are printed after every attack.
-  4. Simulations are stopped if no aliens made a move(dead, trapped or world is destryed) in an 
+  4. Simulations are stopped if no aliens made a move(dead, trapped or world is destroyed) in an 
      iteration or if all the aliens have moved "maxAlienMoves" times  
   5. Unit tests are written and they are run while issuing "make" command.
   6. To run the tests separately use ``` go test ./... -v ``` command
